@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+pandas
+numpy
+scikit-learn
+# any other modules your code imports
